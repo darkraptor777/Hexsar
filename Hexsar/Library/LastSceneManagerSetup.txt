@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/Level One.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Main Menu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/Scenes/Death Screen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level Two.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Level Three.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Victory Screen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Credits.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/Options.unity
+  isLoaded: 0
+  isActive: 0

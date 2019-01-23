@@ -1,0 +1,18 @@
+SFX
+laserbeam by peepholecircus (https://freesound.org/people/peepholecircus/sounds/169991/)
+explosion by jalastram (https://freesound.org/people/jalastram/sounds/317596/)
+pickup sound by jalastram (https://freesound.org/people/jalastram/sounds/317626/)
+enemy one laser by jalastram (https://freesound.org/people/jalastram/sounds/317606/)
+enemy two laser by DrMinky (https://freesound.org/people/DrMinky/sounds/174436/)
+player laser by jalastram (https://freesound.org/people/jalastram/sounds/317639/)
+boss gun turret laser by Emanuele_Correani (https://freesound.org/people/Emanuele_Correani/sounds/260155/)
+boss laser turret beam by josepharaoh99 (https://freesound.org/people/josepharaoh99/sounds/352852/)
+
+
+BGM
+http://incompetech.com/music/royalty-free/music.html
+
+"Cyborg Ninja","Mega Hyper Ultrastorm","Rhinoceros","Lightless Dawn","Inspired","Bit Shift" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
